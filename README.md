@@ -39,4 +39,4 @@ This project uses:
 -   React + Vite
 -   Eslint
 
-⭐ Check out the figma design here: [Click here](https://www.figma.com/plugin-docs/api/api-overview/).
+⭐ Check out the figma design here: [Click here](https://www.figma.com/design/grqvoA5DpTWwHEqxtUEb1S/Assignment-%3A%3A-React-Dev-Hiring?node-id=7-1113&t=RySkuM3ZvZsayXOO-0).
