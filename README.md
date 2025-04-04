@@ -1,12 +1,42 @@
-# React + Vite
+<img width="1482" alt="design" src="https://github.com/StrixV54/beyond_kanban/tree/main/src/assets/site.png">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Beyond's Kandan Board
 
-Currently, two official plugins are available:
+A Kanban board where users can create, update, and move tasks across different columns.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- The board has three columns: To Do, In Progress, Done.
+- Users is able to add, edit, and move tasks between columns using drag & drop.
+- Implemented smooth animations for task transitions.
+- Persisted tasks in Local Storage so the board state remains after refresh.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+1. Download or clone this project.
+2. Install dependencies in root directory of this repository using the command `npm install` in terminal.
+3. Start the program using the command `npm run dev`.
+
+## Development
+
+-   Run `npm install` to install dependencies.
+-   Run `npm run dev` to start vite in dev mode.
+
+## Build Commands
+
+### For Production
+
+-   `npm run build`: Builds the project for production.
+
+### Run Production build
+
+-   `npm run preview`: Starts vite from prod build.
+
+## Tooling
+
+This project uses:
+
+-   React + Vite
+-   Eslint
+
+⭐ Check out the figma design here: [Click here](https://www.figma.com/plugin-docs/api/api-overview/).
