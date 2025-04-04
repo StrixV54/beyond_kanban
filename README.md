@@ -1,4 +1,4 @@
-<img width="1482" alt="design" src="https://github.com/StrixV54/beyond_kanban/tree/main/src/assets/site.png">
+<img width="1482" alt="design" src="https://github.com/StrixV54/beyond_kanban/blob/main/src/assets/site.png">
 
 # Beyond's Kandan Board
 
